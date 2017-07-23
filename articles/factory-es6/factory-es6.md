@@ -301,6 +301,6 @@ console.log(`
  ES6提供了一个方便的语法来处理对象创建和工厂功能。大多数时候，这就是你需要的，但是因为这是JavaScript，还有一种方法让它更像Java：class关键字。
 
 
- ''在JavaScript中，类比工厂函数更加冗长和限制，而在重构方面，类则是一个雷区，但是它们也被React和Angular等主要前端框架所接受，而且还有一些罕见的使用 - 使复杂性值得的案例。
+ 在JavaScript中，类比工厂函数更加冗长和限制，而在重构方面，类则是一个雷区，但是它们也被React和Angular等主要前端框架所接受，而且还有一些罕见的使用 - 使复杂性值得的案例。
 
 [阅读原文](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
